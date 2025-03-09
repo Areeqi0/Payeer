@@ -2,7 +2,7 @@
 
 :root {
   --payeer-dark-blue: #002255;
-  --payeer-light-blue: #0066cc;
+/*   --payeer-light-blue: #0066cc; */
   --payeer-green: #00cc66;
   --payeer-white: #ffffff;
   --payeer-gray: #f0f0f0;
@@ -13,6 +13,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: #002255;
 }
 
 body {
